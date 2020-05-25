@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-//The budget collection will a description, amount, and the date the user entered.
+//The budget collection will have a description, amount, and the date the user entered.
 const budgetSchema = mongoose.Schema(
   {
     desc: {
