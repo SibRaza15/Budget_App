@@ -1,5 +1,9 @@
 import React from "react";
 
+/*
+This component will be used for a future enhancement. 
+*/
+
 export default function Balances(props) {
   let d = new Date();
   const monthNames = [

@@ -56,7 +56,10 @@ export default function ExpensesForm({
         <div className="row">
           <div className="input-field col s12">
             <label htmlFor="input"></label>
-            <i style={{ marginTop: "25px" }} className="left material-icons">
+            <i
+              style={{ marginTop: "25px", color: "#4C56CF" }}
+              className="left material-icons"
+            >
               date_range
             </i>
             <DatePicker
@@ -72,7 +75,7 @@ export default function ExpensesForm({
           type="submit"
           name="action"
           onClick={handleClick}
-          style={{ marginLeft: "70px" }}
+          style={{ marginLeft: "70px", backgroundColor: "#4C56CF" }}
         >
           Submit
           <i className="material-icons right">send</i>
