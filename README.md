@@ -25,5 +25,5 @@
 <li>Account creation and management</li>
 <li>Add the ability to manage balances, income, and expenses</li>
 <li>Provide insights on budget management and spending</li>
-<li>Create more modularity - move table to its own component</li>
+<li>Create more modularity (e.g move table to its own component)</li>
 </ul>
