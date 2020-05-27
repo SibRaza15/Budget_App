@@ -1,4 +1,4 @@
-<h2>The Expenses App</h2>
+<h2>The Budget App</h2>
 
 <p>This is a full stack MERN app that allows users to track their expenses. Additionally, users can view their expense transactions in a table and line graph.</p>
 
